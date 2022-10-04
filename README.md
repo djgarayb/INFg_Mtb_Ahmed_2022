@@ -1,4 +1,4 @@
-# INFg_Mtb_Ahmed_2022
+# INF- $\gamma$ _*Mtb*_Ahmed_2022
 ## Mycobacterium tuberculosis senses host Interferon- $\gamma$ via the membrane protein MmpL10 
  
 ## Author list:
