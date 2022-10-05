@@ -2,7 +2,7 @@
 ## *Mycobacterium tuberculosis* senses host Interferon- $\gamma$ via the membrane protein MmpL10 
  
 ## Author list:
-Mohamed Ahmed, Jared Mackenzie, Liku Tezera, Robert Krause, Barry Truebody, Diana Garay-Baquero, Andres Vallejo, Katya Govender, John Adamson1, Hayden Fisher, 4 Jonathan W. Essex, Salah Mansour, Paul Elkington, Adrie JC Steyn, Alasdair Leslie
+Mohamed Ahmed, Jared Mackenzie, Liku Tezera, Robert Krause, Barry Truebody, Diana Garay-Baquero, Andres Vallejo, Katya Govender, John Adamson, Hayden Fisher, Jonathan W. Essex, Salah Mansour, Paul Elkington, Adrie JC Steyn, Alasdair Leslie
  
  
 ## Abstract:
